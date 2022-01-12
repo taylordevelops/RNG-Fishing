@@ -1,0 +1,33 @@
+.gameContainer{
+  background-color: #0077be;
+  height: 100%;
+  text-align: center;
+  display: table; 
+  width:100%;
+}
+.gameWindow{
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  display: table-cell; 
+  vertical-align: middle;
+}
+
+h1, p{
+  font-family: georgia;
+  color: #ffffff;
+  font-weight: 600;
+  min-height: 25px;
+}
+
+#btnSearch{
+  background-color: #4CAF50;
+  border: none;
+  color: #ffffff;
+  padding: 1em 1em;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1em;
+  border-radius: 50%;
+}
